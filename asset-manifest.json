@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/unit20-react/static/css/main.733a6162.chunk.css",
+    "main.js": "/unit20-react/static/js/main.e748adb0.chunk.js",
+    "main.js.map": "/unit20-react/static/js/main.e748adb0.chunk.js.map",
+    "runtime-main.js": "/unit20-react/static/js/runtime-main.727a88f0.js",
+    "runtime-main.js.map": "/unit20-react/static/js/runtime-main.727a88f0.js.map",
+    "static/js/2.102548e6.chunk.js": "/unit20-react/static/js/2.102548e6.chunk.js",
+    "static/js/2.102548e6.chunk.js.map": "/unit20-react/static/js/2.102548e6.chunk.js.map",
+    "index.html": "/unit20-react/index.html",
+    "precache-manifest.593294bc2174d7cc5bcab779b989a888.js": "/unit20-react/precache-manifest.593294bc2174d7cc5bcab779b989a888.js",
+    "service-worker.js": "/unit20-react/service-worker.js",
+    "static/css/main.733a6162.chunk.css.map": "/unit20-react/static/css/main.733a6162.chunk.css.map",
+    "static/js/2.102548e6.chunk.js.LICENSE.txt": "/unit20-react/static/js/2.102548e6.chunk.js.LICENSE.txt",
+    "static/media/Profile.pdf": "/unit20-react/static/media/Profile.add44b36.pdf",
+    "static/media/autoremind.jpg": "/unit20-react/static/media/autoremind.46186d2b.jpg",
+    "static/media/book-search.jpg": "/unit20-react/static/media/book-search.eed70e54.jpg",
+    "static/media/budget-tracker.jpg": "/unit20-react/static/media/budget-tracker.c4ecc82a.jpg",
+    "static/media/cover-image.jpg": "/unit20-react/static/media/cover-image.b51bd024.jpg",
+    "static/media/note-taker.jpg": "/unit20-react/static/media/note-taker.1801b24a.jpg",
+    "static/media/run-buddy.jpg": "/unit20-react/static/media/run-buddy.938f8fe0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.727a88f0.js",
+    "static/js/2.102548e6.chunk.js",
+    "static/css/main.733a6162.chunk.css",
+    "static/js/main.e748adb0.chunk.js"
+  ]
+}
